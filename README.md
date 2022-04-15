@@ -1,4 +1,4 @@
-### Eu sou o Fabiano Moreira, seja bem vindo ao meu perfil!
+### Hi! I'm Fabiano Moreira, welcome to my profile!
 
 <div align="center">
   <a href="https://github.com/fabianomoreira">
